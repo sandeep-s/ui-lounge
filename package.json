@@ -10,7 +10,11 @@
   "devDependencies": {
     "live-server": "~1.2.0",
     "systemjs" : "~0.20.14",
-    "rxjs" : "~5.4.1"
+    "rxjs" : "~5.4.1",
+    "es6-shim": "~0.35.3",
+    "reflect-metadata": "~0.1.10",
+    "zone.js": "~0.8.12",
+    "typings": "~2.1.1"
   },
   "keywords": [],
   "author": "",
